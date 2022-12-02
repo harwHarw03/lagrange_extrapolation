@@ -7,7 +7,7 @@ Lagrange for interpolating data.
 
 Compile using 
 ```bash
-g++ minimal.cpp -std=c++11 -I/usr/include/python3.10 -lpython3.10
+g++ lagrange.cpp -std=c++11 -I/usr/include/python3.10 -lpython3.10
 ```
 If error on compilation : 
 <img src="images/ss1.png" alt="error"/>
